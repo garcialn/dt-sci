@@ -22,7 +22,7 @@ by Lucas NG <@garcialn>
 > - Pandas
 > - Scikit-learn
 > - Pyarrow
-
+---
 
 ### Porject Structure:
 ```bash
