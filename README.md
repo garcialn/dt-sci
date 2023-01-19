@@ -27,6 +27,14 @@ by Lucas NG <@garcialn>
 ### Porject Structure:
 ```bash
 .
+├── config
+│   ├── model
+│       ├── model1.yaml
+│       ├── model2.yaml
+│   ├── process
+│       ├── process1.yaml
+│       ├── process2.yaml
+│   ├── main.yaml
 ├── data            
 │   ├── final                       # Dados após treino do modelo
 │   ├── processed                   # Dados processados (em caso de uso local)
