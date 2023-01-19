@@ -25,6 +25,7 @@ by Lucas NG <@garcialn>
 
 
 ### Porject Structure:
+```bash
 .
 ├── data            
 │   ├── final                       # Dados após treino do modelo
@@ -49,3 +50,4 @@ by Lucas NG <@garcialn>
     ├── __init__.py                 # Transformar o diretório em Módulo Python
     ├── test_process.py             # Funções para teste de process.py
     └── test_train_model.py         # Funções para teste de train_model.py
+```
